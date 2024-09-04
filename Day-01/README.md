@@ -27,5 +27,7 @@ An Ethical Hacker is a skilled professional who has excellent technical knowledg
 
 ## Types of Hackers
 **•	White Hat Hacker:-** White Hat hackers also known as Ethical hackers attacks a system or network with permissions of owner.
+
 **•	Black hat Hacker:-** Black hat hackers are those individuals who attacks a system with malicious intent or to cause harm to data or networks of system.
+
 **•	Grey hat Hacker:-** Grey hat hacker are hackers which hack systems without consent but with no malicious intent to cause any harm.
